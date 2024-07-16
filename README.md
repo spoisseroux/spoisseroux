@@ -1,6 +1,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spoisseroux&langs_count=9)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=spoisseroux&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=spoisseroux&show_icons=true&include_all_commits=true&theme=dark&count_private=true" alt="github stats">
 
 
 <!--
