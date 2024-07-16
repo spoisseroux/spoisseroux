@@ -13,8 +13,6 @@
     <a href="mailto:me@keehar.net"><img width="18" height="18" src="mailIcon.svg?sanitize=true" /></a>
     <a href="https://www.youtube.com/@keehar"><img width="18" height="18" src="youtubeIcon3.svg?sanitize=true" /></a>
   </p>
-  <br>
-  <br>
   
   Hi, I'm Spencer; Developer from the US/EU and Former Data Engineer at IBM.<br>
   Currently looking for roles, please see my website.
