@@ -10,7 +10,7 @@
   <br>
   <p>
     <a href="https://keehar.net/"><img width="18" height="18" src="CGWebsite.svg?sanitize=true" /></a>
-    <a href="mailto:me@keehar.net"><img width="18" height="18" src="MNEmail.svg?sanitize=true" /></a>
+    <a href="mailto:me@keehar.net"><img width="18" height="18" src="MNEmailGrey.svg?sanitize=true" /></a>
     <a href="https://www.youtube.com/@keehar"><img width="18" height="18" src="ADYoutubeOutlined.svg?sanitize=true" /></a>
   </p>
   <br>
