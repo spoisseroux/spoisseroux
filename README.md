@@ -11,7 +11,7 @@
   <p>
     <a href="https://keehar.net/"><img width="18" height="18" src="CGWebsiteDarkGrey.svg?sanitize=true" /></a>
     <a href="mailto:me@keehar.net"><img width="18" height="18" src="MNEmailDarkGrey.svg?sanitize=true" /></a>
-    <a href="https://www.youtube.com/@keehar"><img width="18" height="18" src="ADYoutubeOutlinedDarkGrey.svg?sanitize=true" /></a>
+    <a href="https://www.youtube.com/@keehar"><img width="18" height="18" src="RIYoutubeLineDarkGrey.svg?sanitize=true" /></a>
   </p>
   <br>
   <br>
