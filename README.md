@@ -2,8 +2,6 @@
   <br>
   <br>
   <br>
-  <br>
-  <br>
   <a href="https://keehar.net/">
     <img width="60" height="60" src="nocturneIcon.gif" />
   </a>
