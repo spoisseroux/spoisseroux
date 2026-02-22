@@ -12,7 +12,7 @@
     <a href="https://www.youtube.com/@keehar"><img width="18" height="18" src="youtubeIcon3.svg?sanitize=true" /></a>
   </p>
   
-  Hi, I'm Spencer; Backend/Infra developer often working in 3D & Game development <br>
+  Hi, I'm Spencer; Backend/Infra developer in services -> SaaS <br>
   Please see my website for mostly 3D / Game dev portfolio work <br>
   Currently looking for roles (US & IT Citizenship) 
   <p>
