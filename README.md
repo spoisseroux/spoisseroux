@@ -13,8 +13,8 @@
   </p>
   
   Hi, I'm Spencer; Backend/Infra developer often working in 3D & Game development <br>
-  Currently looking for roles (US & IT Citizenship) <br>
-  Please see my website for mostly 3D / Game dev portfolio work
+  Please see my website for mostly 3D / Game dev portfolio work <br>
+  Currently looking for roles (US & IT Citizenship) 
   <p>
     <a href="https://keehar.net/">Website</a> •  
     <a href="mailto:me@keehar.net">E-Mail</a> • 
